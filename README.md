@@ -7,3 +7,8 @@ Simplest
 --------
 
 Simplest HTML could be a simple plain text. HTML tags are not required to show a web page.
+
+Simple
+------
+
+Simple HTML5.
